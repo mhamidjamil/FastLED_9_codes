@@ -32,3 +32,8 @@ void loop() {
     delay(100);            // delay for 100 milliseconds
   }
 }
+/*
+This program will draw a circle by turning on all of the LEDs in a circular
+pattern, then turning them off in the same pattern. This will repeat
+indefinitely.
+*/
